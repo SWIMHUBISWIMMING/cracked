@@ -1,0 +1,6 @@
+local Table = {
+    Xkarpx1 = true,
+    KNAKA_2009 = true,
+}
+
+return Table
